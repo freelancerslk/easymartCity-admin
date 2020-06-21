@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "easymartlk-93b8c"
+  },
+  "targets": {
+    "easymartlk-93b8c": {
+      "hosting": {
+        "admin": [
+          "easymart-admin"
+        ]
+      }
+    }
+  }
+}

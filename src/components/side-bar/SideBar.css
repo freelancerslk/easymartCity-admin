@@ -1,0 +1,42 @@
+/* .SideBar {
+    height: 100%;
+    background-color: #051e34;
+    background-image: url(https://www.gstatic.com/mobilesdk/190424_mobilesdk/nav_nachos@2x.png);
+} */
+
+.ui.grid {
+    margin-right: unset;
+}
+
+.sidebar-item {
+    margin-left: 30px !important;
+    color: white;
+    letter-spacing: 4px;
+    color: white !important;
+}
+
+.grid-item {
+    border-top: 2px solid grey;
+}
+
+.grid-item :hover {
+    background-color: rgba(255,255,255,.08)!important;
+}
+
+.row:hover {
+    background-color: rgba(255,255,255,.08)!important;
+    cursor: pointer;
+}
+
+.last-border {
+    border-bottom: 2px solid grey;
+}
+
+.app-name {
+    letter-spacing: 7px;
+}
+
+/* .sidebar-item {
+    margin-left: auto;
+    margin-right: auto;
+} */
